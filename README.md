@@ -13,14 +13,14 @@
 
 ## วิธีการรันโปรเจกต์ (How to Run)
 1. เปิดไฟล์ `6710110109_AI_minproject.ipynb` ผ่าน Google Colab
-2. หากมีการใช้ไฟล์ Dataset แบบออฟไลน์ ให้อัปโหลดไฟล์ Dataset ลงใน Colab หรือหากดึงข้อมูลผ่าน Raw URL จาก GitHub สามารถรันเซลล์โค้ดตามลำดับได้ทันที
+2. ให้อัปโหลดไฟล์ Dataset Indian_Kids_Screen_Time.csv ลงใน Colab
 3. รันเซลล์ทั้งหมดเพื่อเทรนโมเดล และใช้งานผ่านอินเทอร์เฟซเพื่อดูผลการทำนาย
 
 ## แหล่งอ้างอิง (References)
 *American Academy of Pediatrics. (2016). Media use in school-aged children and adolescents. Pediatrics, 138(5), e20162592. https://doi.org/10.1542/peds.2016-2592*
 
 **ที่มาของข้อมูล (Dataset):** 
-*Kaggle Dataset. (2024). Indian Kids Screen Time & Health Impacts Dataset.*
+* Kaggle Dataset. (2024). Indian Kids Screen Time & Health Impacts Dataset.
 
 **เอกสารอ้างอิงทางเทคนิค (Technical Documentation):**
 * scikit-learn developers. "scikit-learn: Machine Learning in Python". สืบค้นจาก https://scikit-learn.org/
