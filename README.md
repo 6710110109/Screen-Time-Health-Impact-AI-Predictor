@@ -18,7 +18,9 @@
 
 ## แหล่งอ้างอิง (References)
 *American Academy of Pediatrics. (2016). Media use in school-aged children and adolescents. Pediatrics, 138(5), e20162592. https://doi.org/10.1542/peds.2016-2592*
-* **ที่มาของข้อมูล (Dataset):** *Kaggle Dataset. (2024). Indian Kids Screen Time & Health Impacts Dataset.*
+
+**ที่มาของข้อมูล (Dataset):** 
+*Kaggle Dataset. (2024). Indian Kids Screen Time & Health Impacts Dataset.*
 
 **เอกสารอ้างอิงทางเทคนิค (Technical Documentation):**
 * scikit-learn developers. "scikit-learn: Machine Learning in Python". สืบค้นจาก https://scikit-learn.org/
